@@ -1,4 +1,5 @@
-CS3388 Computer Graphics Assignments
+# CS3388 Computer Graphics Assignments
+
 This repository contains a series of assignments for a computer graphics course, focusing on different aspects of OpenGL programming in C++. Each assignment is designed to introduce and practice specific concepts in computer graphics, ranging from simple drawings to complex 3D mesh generation.
 
 Assignment Summaries
